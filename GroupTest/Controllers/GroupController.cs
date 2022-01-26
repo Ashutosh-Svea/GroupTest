@@ -2,7 +2,9 @@
 {
     public class GroupController
     {
-        int number = 51;
-       int number = 10;
+        string hej = "hejhej";
+        string hej2 = "hejhej";
+
+        int number = 5;
     }
 }
