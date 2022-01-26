@@ -2,6 +2,6 @@
 {
     public class GroupController
     {
-       int number = 17;
+       int number = 1;
     }
 }
